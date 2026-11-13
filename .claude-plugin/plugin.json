@@ -1,0 +1,13 @@
+{
+  "name": "tikpatch",
+  "displayName": "TikPatch",
+  "description": "Post videos to TikTok at full quality instead of TikTok's re-encode. Prepares a proper 1080p export, patches it so TikTok Web can serve your exact file, and checks the posted video afterwards.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Luuk Dekker"
+  },
+  "homepage": "https://github.com/99Luuk/TikPatch",
+  "repository": "https://github.com/99Luuk/TikPatch",
+  "license": "MIT",
+  "keywords": ["tiktok", "video", "video-quality", "ffmpeg", "creator-tools"]
+}

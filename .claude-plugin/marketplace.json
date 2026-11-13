@@ -1,0 +1,13 @@
+{
+  "name": "tikpatch",
+  "description": "Upload to TikTok without the quality loss",
+  "owner": {
+    "name": "Luuk Dekker"
+  },
+  "plugins": [
+    {
+      "name": "tikpatch",
+      "source": "./"
+    }
+  ]
+}
